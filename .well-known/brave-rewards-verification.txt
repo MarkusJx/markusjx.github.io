@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: markusjx.github.io
+Token: 05976de217679148fa59af82cc33488faf030d17c72cd50f66767968740fc7a8
